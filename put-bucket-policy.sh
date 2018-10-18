@@ -3,7 +3,7 @@ DEFAULT_REGION="eu-central-1"
 AWS_REGION="${AWS_REGION:-${DEFAULT_REGION}}"
 
 BUCKET="helm-20170102-8"
-NODE_ROLE_ARN="arn:aws:iam::211896161413:role/nodes.nosprojectk8s.cf"
+NODE_ROLE_ARN="arn:aws:iam::211896161413:role/nodes.nosprojectk8s.tk"
 
 export AWS_REGION
 
